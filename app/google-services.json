@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009446323162",
+    "firebase_url": "https://automated-system-42bae.firebaseio.com",
+    "project_id": "automated-system-42bae",
+    "storage_bucket": "automated-system-42bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009446323162:android:f39b5c25301a3aa91c76e3",
+        "android_client_info": {
+          "package_name": "com.example.automatedsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009446323162-4hdkginnjjhme2860vmd05e5m8tmdlm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.automatedsystem",
+            "certificate_hash": "deb81be9690c8065aac0c2b7ab2473f39015528d"
+          }
+        },
+        {
+          "client_id": "1009446323162-aq9jup999s1svlomogfd5b7fsle4inpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIjk39tGCqt82DIpY66V3Knku7_QVPFmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009446323162-aq9jup999s1svlomogfd5b7fsle4inpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
